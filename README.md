@@ -10,11 +10,15 @@ Uma aplicação escrita em Python com dataclasses para gerenciar referências bi
 
 - Python >= 3.8
 
-### Crie um ambiente virtual e ative
+### Crie um ambiente virtual 
 
 ```
 python -m venv venv
+```
 
+### Ative o ambiente virtual
+
+```
 No MacOS ou Linux ou PyCharm:
 source venv/bin/activate
 
