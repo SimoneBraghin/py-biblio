@@ -13,7 +13,7 @@ Uma aplicação escrita em Python com dataclasses para gerenciar referências bi
 ### Crie um ambiente virtual e ative
 
 ```
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate
 ```
 
