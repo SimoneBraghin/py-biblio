@@ -14,7 +14,15 @@ Uma aplicação escrita em Python com dataclasses para gerenciar referências bi
 
 ```
 python -m venv venv
+
+No MacOS ou Linux ou PyCharm:
 source venv/bin/activate
+
+No Command Prompt (cmd):
+venv\Scripts\activate
+
+No PowerShell:
+.\venv\Scripts\Activate.ps1
 ```
 
 ### Instale as dependências
