@@ -35,6 +35,12 @@ No PowerShell:
 pip install -r requirements.txt
 ```
 
+### Instale o gerenciador de pacotes para subir a API
+
+[MSYS2](https://www.msys2.org/)  
+ou  
+[Chocolatey](https://chocolatey.org/)
+
 ### Suba a API
 
 ```
